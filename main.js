@@ -238,7 +238,7 @@
       kernelSize: 4,
       distinction: .01
     }, 1);
-    var C = new a.a("NEXT HORIZON", {
+    var C = new a.a("HORIZON", {
       color: "#FFFFFF",
       size: P.a.isMobile ? .08 : .1,
       wireframe: !0,
